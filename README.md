@@ -1,5 +1,5 @@
 ---
-# "Online Customized Gift Shopping Portal"
+# Online Customized Gift Shopping Portal
 ---
 
 # Overview
@@ -49,9 +49,3 @@ The project is divided into two main interfaces: **Customer** and **Administrato
 - Demonstrates practical integration of **web development** with **database management**, including CRUD operations, database triggers, and relational integrity  
 - Provides a foundation for future enhancements such as invoices, email notifications, search functionality, and online payment integration  
 
-# Future Improvements
-
-- Implement invoice generation and automated email notifications  
-- Add search engine functionality for easier product discovery  
-- Support multiple languages for a wider audience  
-- Integrate online payment methods (credit/debit cards, e-wallets)  
